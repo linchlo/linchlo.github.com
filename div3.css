@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#box{
+	width: 1434px;
+	height:1657px;
+}
+
+#top{
+	width: 1434px;
+	height: 211px;
+}
+
+#center{width:1434px;
+         height:1446px;
+}
+
+#left{width:214px;
+      height:1446px;
+	  float:left;
+}

@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#box{
+	width: 1434px;
+	height: 748px;
+}
+	
+#top{
+	width: 1434px;
+	height: 420px;
+}
+
+#banner1{width: 224px;
+         height: 421px;
+		 margin-left: 1005px;
+		
+}
+
+#center{width:1434px;
+         height:328px;
+}
+
+#banner2{width:182px;
+         height:328px;
+		 float:left;
+		 margin-left:242px;
+}
+
+#banner3{
+	     width:191px;
+		 height:328px;
+		 float:left;
+		 margin-left:598px;
+}
